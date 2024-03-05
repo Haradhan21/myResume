@@ -1,0 +1,36 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    margin: 0 20px;
+}
+
+.fas fa-address-card{
+    margin-left: 50%;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+h3
+{
+    margin-top: 20px;
+    border-bottom: solid;
+    border-top: solid;
+    border-width: 1px;
+}
+
+h5{
+    font-weight: bold;
+}
+
+h6{
+    font-weight: lighter;
+}
+
+.ita {
+    font-style: italic;
+}
+
+.lt{
+    font-weight: lighter;
+}
